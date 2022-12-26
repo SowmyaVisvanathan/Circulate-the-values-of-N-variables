@@ -6,7 +6,7 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1:
-Get the values to be circulated from the use
+Get the values to be circulated from the user
 ### Step 2: 
 Get the value from the user for the number of rotation
 ### Step 3: 
